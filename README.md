@@ -1,8 +1,8 @@
 # Separation-of-multiplicative-interaction
 open-source code of the manuscript submitted to IEEE IoT J
 
-MATLAB files :
-Script File :
+MATLAB files :\\
+Script File :\\
 BER_of_different_beamforming_strategies.m - Compare the performance of CGM, UNFEQ and random beamforming for SMI scheme.
 BER_traditional_RIS_aided.m - Simulate the BER-\rho scaling law of traditional RIS aided systems without symbiosis paradigm.
 complexity.m - Compare the complexity of ML detector, SMC detector and 3 linear detectors.
