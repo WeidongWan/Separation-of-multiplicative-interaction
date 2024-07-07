@@ -1,9 +1,9 @@
 # Separation-of-multiplicative-interaction
 open-source code of the manuscript submitted to IEEE IoT J
 
-MATLAB files :
+MATLAB Files :
 
-Script File :
+Script Files :
 
 BER_of_different_beamforming_strategies.m - Compare the performance of CGM, UNFEQ and random beamforming for SMI scheme.
 
@@ -30,7 +30,7 @@ SMI_ML_CGM.m - Find the numerical values of BER for SMI with CGM and ML detector
 SMI_ML_CGM_par.m - Find the numerical values of BER for SMI with CGM and ML detector. (Parallel computing)
 
 
-Function File :
+Function Files :
 
 CGM.m - CGM beamforming strategy.
 
