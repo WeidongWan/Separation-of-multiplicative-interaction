@@ -29,6 +29,15 @@ SMI_ML_CGM.m - Find the numerical values of BER for SMI with CGM and ML detector
 
 SMI_ML_CGM_par.m - Find the numerical values of BER for SMI with CGM and ML detector. (Parallel computing)
 
+dnc_ML.m - Simulate the signal transmission and ML detection of the SMI-based SR systems in the scenario where both direct and cascaded links exist.
+
+dnc_SMC.m - Simulate the signal transmission and SMC detection of the SMI-based SR systems in the scenario where both direct and cascaded links exist.
+
+dnc_iteML.m - Simulate the signal transmission and traditional iterative ML detection of the SMI-based SR systems in the scenario where both direct and cascaded links exist.
+
+dnc_iteLinear.m - Simulate the signal transmission and traditional iterative linear detection of the SMI-based SR systems in the scenario where both direct and cascaded links exist.
+
+
 
 Function Files :
 
