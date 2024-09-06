@@ -37,6 +37,8 @@ dnc_iteML.m - Simulate the signal transmission and traditional iterative ML dete
 
 dnc_iteLinear.m - Simulate the signal transmission and traditional iterative linear detection of the SMI-based SR systems in the scenario where both direct and cascaded links exist.
 
+dnc_SMIbasedLinear.m - Simulate the signal transmission and SMI-based linear detection of SMISR in the scenario where both direct and cascaded links exist.
+
 
 
 Function Files :
